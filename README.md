@@ -1,5 +1,7 @@
 # animal-form
 
+This is based on a youtube tutorial of __[on the code again]__ https://www.youtube.com/watch?v=46Rs6_2pw_Y.
+
 A [re-frame](https://github.com/day8/re-frame) application designed to ... well, that part is up to
 you.
 
